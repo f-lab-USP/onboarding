@@ -1,4 +1,4 @@
-# Túnel remoto de dentro da rede do DOF
+# SSH tunnel within DOF's network
 
 ## Step 1: log in into the remotehost and start jupyter
 
@@ -6,7 +6,7 @@ On a terminal in your local computer, access woodshole:
 
     ssh user@woodshole
 
-Now check out your micromamba environment:
+On woodshole, activate your micromamba environment:
 
     micromamba activate base
 
@@ -28,12 +28,17 @@ You now need to forward the jupyterlab service, booted up on woodshole through p
 Copy the link generated on the terminal you used to launch jupyter and paste it on your browser. The link resembles: `http://127.0.0.1:9999/lab?token=(...)`.  Et voilà, you have a working jupyterlab running on woodshole that you can iterface with on your local browser.     
 
 
-# Túnel remoto de fora da rede do DOF
+# SSH tunnel from outside DOF's network
 
 
 ## Step 1: build a tunnel through the firewall server
 
+On a terminal in your local computer, create a tunnel through IO's firewall serve:
+
     ssh -Y -f lab_user@firewall.io.usp.br  -N -L 5522:woodshole:22 
+
+Note that lab_user is our group's username on firewall and that you will be prompted 
+for a password for this account---not for your account on woodshole.
 
 ## Step 2: log in into the remotehost and start jupyter
 
@@ -41,7 +46,9 @@ On a terminal in your local computer, access woodshole:
 
     ssh user@localhost
 
-Now check out your micromamba environment:
+You will now be prompted for your password on woodshole.
+
+On woodshole, activate your micromamba environment:
 
     micromamba activate base
 
