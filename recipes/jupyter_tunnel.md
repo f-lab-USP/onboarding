@@ -27,7 +27,9 @@ You now need to forward the jupyterlab service, booted up on woodshole through p
 
 ## Step 3: open jupyterlab on your localhost
 
-Copy the link generated on the terminal you used to launch jupyter and paste it on your browser. The link resembles: `http://127.0.0.1:9999/lab?token=(...)`.  Et voilà, you have a working jupyterlab running on woodshole that you can iterface with on your local browser.     
+Copy the link generated on the terminal you used to launch jupyter and paste it on your browser. The link resembles: `http://127.0.0.1:9999/lab?token=(...)`. 
+
+Et voilà, you have a working jupyterlab running on woodshole that you can iterface with on your local browser.     
 
 
 # SSH tunnel from outside DOF's network
@@ -69,5 +71,7 @@ You now need to forward the jupyterlab service, booted up on woodshole through p
 
 ## Step 4: open jupyterlab on your localhost
 
-Copy the link generated on the terminal you used to launch jupyter and paste it on your browser. The link resembles: `http://127.0.0.1:9999/lab?token=(...)`.  Et voilà, you have a working jupyterlab running on woodshole that you can iterface with on your local browser. 
+Copy the link generated on the terminal you used to launch jupyter and paste it on your browser. The link resembles: `http://127.0.0.1:9999/lab?token=(...)`.  
+
+Et voilà, you have a working jupyterlab running on woodshole that you can iterface with on your local browser. 
    
