@@ -18,7 +18,7 @@ where `XXXX` is the port number you'd like to use (e.g., 8889).
 
 
 ## Step 2: tunnel the jupyterlab service into your localhost
-You now need to forward the jupyterlab service, booted up on woodshole through port `XXXX` into port `YYYY`  of your local. You can use `YYYY = XXXX` for simplicity:
+You now need to forward the jupyterlab service, booted up on woodshole through port `XXXX` into port `YYYY`  of your local computer. You can use `YYYY = XXXX` for simplicity:
 
     ssh -X -t -t user@woodshole -L XXXX:localhost:YYYY 
 
@@ -59,7 +59,7 @@ And fire up jupyter lab:
 where `XXXX` is the port number you'd like to use (e.g., 8889). 
 
 ## Step 3: tunnel the jupyterlab service into your localhost
-You now need to forward the jupyterlab service, booted up on woodshole through port `XXXX` into port `YYYY`  of your local. You can use `YYYY = XXXX` for simplicity:
+You now need to forward the jupyterlab service, booted up on woodshole through port `XXXX` into port `YYYY`  of your local computer. You can use `YYYY = XXXX` for simplicity:
 
     ssh  -Yp 5522  user@localhost -L XXXX:localhost:XXXX
 
