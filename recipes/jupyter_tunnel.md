@@ -39,7 +39,7 @@ Copy the link generated on the terminal you used to launch jupyter and paste it 
 
 On a terminal in your local computer, access woodshole:
 
-    ssh user@woodshole
+    ssh user@localhost
 
 Now check out your micromamba environment:
 
