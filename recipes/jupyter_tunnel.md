@@ -10,7 +10,9 @@ On woodshole, activate your micromamba environment:
 
     micromamba activate base
 
-And fire up jupyter lab:
+If you use conda, change micromamba with conda above.
+
+Now start jupyter lab:
 
     jupyter-lab --no-browser --ip='*' --port=XXXX
 
@@ -52,7 +54,9 @@ On woodshole, activate your micromamba environment:
 
     micromamba activate base
 
-And fire up jupyter lab:
+If you use conda, change micromamba with conda above.
+
+Now start jupyter lab:
 
     jupyter-lab --no-browser --ip='*' --port=XXXX
 
