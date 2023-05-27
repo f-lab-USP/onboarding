@@ -35,20 +35,20 @@ Et voilà, you have a working jupyterlab running on woodshole that you can iterf
 # SSH tunnel from outside DOF's network
 
 
-## Step 1: build a tunnel through the firewall server
+## Step 1: build a tunnel through the door server
 
 On a terminal in your local computer, create a tunnel through IO's firewall serve:
 
-    ssh -Y -f lab_user@firewall.io.usp.br  -N -L 5522:woodshole:22 
+    ssh -Y -f labcrocha@door.io.usp.br  -N -L 3322:woodshole:22 
 
 Note that lab_user is our group's username on firewall and that you will be prompted 
 for a password for this account---not for your account on woodshole.
 
 ## Step 2: log in into the remotehost and start jupyter
 
-On a terminal in your local computer, access woodshole:
+On a **new** terminal window in your local computer, access woodshole:
 
-    ssh user@localhost
+    ssh -p 3322 user@localhost
 
 You will now be prompted for your password on woodshole.
 
