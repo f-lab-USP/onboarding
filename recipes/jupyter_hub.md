@@ -8,6 +8,9 @@ Na barra de endereços do browser de seu computador digite:
 
 Na página de entrada do servidor jupyterhub, digite o usurário e senha de sua conta na woodshole.
 
+<img title="404 instructions" alt="Alt text" src="./img/login.png">
+
+
 > [!IMPORTANT]  
 > Se por acaso você obter erro 404 (page not found), clique no ícone do jupyterhub no canto superior esquerdo para acessar a página de log in.
 
