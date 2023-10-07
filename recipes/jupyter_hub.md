@@ -8,7 +8,7 @@ Na barra de endereços do browser de seu computador digite:
 
 Na página de entrada do servidor jupyterhub, digite o usurário e senha de sua conta na woodshole.
 
-<img title="404 instructions" alt="Alt text" src="./img/login.png"  width="200">
+<img title="404 instructions" alt="Alt text" src="./img/login.png"  width="800">
 
 
 > [!IMPORTANT]  
