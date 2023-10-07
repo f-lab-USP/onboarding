@@ -31,7 +31,7 @@ A senha de `labcrocha` na servidor `door` será solicitada. Caso não tenha aces
 O comando acima cria um túnel da woodshole (o servidor remoto) para o seu computador (o localhost). Por conveniência, escolhemos mapear o serviço da porta `9999` da woodshole para a porta `9999` do localhost. Se esta porta do localhost já estiver sendo utilizada, você pode substituí-la por outra porta: `XXXX:woodshole:9999`, onde `XXXX` é o número da porta escolhida para o localhost. Preferencialmente, esta porta dever ter número acima de 8000. 
 
 > [!IMPORTANT]  
-> Se seu computador local rodar Windows, baixe o  (Visual Studio Code)[https://code.visualstudio.com]. Este editor de texto contém um terminal, que você pode utilizar para criar o túnel.
+> Se seu computador local rodar Windows, baixe o [Visual Studio Code](https://code.visualstudio.com). Este editor de texto contém um terminal, que você pode utilizar para criar o túnel.
 
 ### Jupyterhub
 
