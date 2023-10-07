@@ -1,4 +1,4 @@
-# Acesso ao servidor jupyterhub na woodhole
+# Acesso ao servidor jupyterhub na woodshole
 
 O nosso servidor jupyterhub está disponível como um serviço na porta `9999` da woodshole. Se você estiver na rede do DOF, bastar utilizar o endereço da woodshole e a porta do jupyterhub direto em seu browser. Caso esteja fora da rede do DOF, é preciso criar um túnel SSH, através do servidor `door`.  Siga as instruções abaixo.
 
