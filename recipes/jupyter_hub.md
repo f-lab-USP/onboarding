@@ -11,7 +11,7 @@ Na página de entrada do servidor jupyterhub, digite o usurário e senha de sua 
 > [!IMPORTANT]  
 > Se por acaso você obter erro 404 (page not found), clique no ícone do jupyterhub no canto superior esquerdo para acessar a página de log in.
 
-<img title="404 instructions" alt="Alt text" src="/img/404.png">
+<img title="404 instructions" alt="Alt text" src="./img/404.png">
 
 
 ## Acesso remoto
