@@ -6,7 +6,7 @@ O objetivo é que todes tenham uma experiência produtiva, saudável e, por que 
 O manual está organizado em quatro pontos-chave: 
 
 - [**Respeito e profissionalismo**](code_of_conduct.md): siga do código de conduta.
-- [**Dedicação**](./roles_and_responsibilities.md):  trabalho duro é o primeiro passo para o sucesso.
+- [**Empenho**](./roles_and_responsibilities.md):   dedicação é o primeiro passo para o sucesso.
 - [**Comunicação**](./communication.md): não se isole dos seus pares.
 - [**Auto-cuidado**](physical_and_mental_health.md): sua saúde física e mental é fundamental.
 
