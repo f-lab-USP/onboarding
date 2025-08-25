@@ -40,9 +40,9 @@ O presente manual estabelece normas e expectativas para todos os membros do GFD-
 - Envolvimento ativo em projetos e publicações científicas do grupo.  
 
 ### Pós-docs
+- Produzir publicações científicas de alto impacto.  
 - Apoiar a supervisão de ICs e pós-graduandos.  
 - Liderar projetos e submissões de financiamento.  
-- Produzir publicações científicas de alto impacto.  
 
 ---
 
