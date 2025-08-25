@@ -1,6 +1,6 @@
-# Manual do GFD-USP (versão normativa)
+# Manual do GFD-USP (versão completa)
 Laboratório de Dinâmica de Fluidos Geofísicos & Aplicações  
-Instituto Oceanográfico da Universidade de São Paulo  
+Instituto Oceanográfico, Universidade de São Paulo  
 
 ---
 
