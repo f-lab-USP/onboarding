@@ -17,8 +17,8 @@ O presente manual estabelece normas e expectativas para todos os membros do GFD-
 ---
 
 ## 3. Estrutura e Reuniões
-- As **reuniões de grupo** (semanais/quinzenais) têm frequência obrigatória. Ausências devem ser justificadas com antecedência.  
-- O orientador realizará **reuniões individuais periódicas**; alunos devem comparecer preparados, com relatórios de progresso claros.  
+- As **reuniões de grupo** (mensais) têm frequência obrigatória. Ausências devem ser justificadas com antecedência.  
+- O orientador realizará **reuniões individuais periódicas**; alunos devem comparecer preparados para discutir o progresso em seu projeto.  
 
 ---
 
