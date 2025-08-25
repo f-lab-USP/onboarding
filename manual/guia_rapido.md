@@ -23,7 +23,7 @@
 - Computação: uso responsável dos clusters, sempre com versionamento (GitHub).  
 
 ## Procedimentos Básicos
-- Faça seu onboarding (contas USP, GitHub, acesso ao lab).  
+- Faça seu onboarding (contas nos computadores, GitHub, acesso ao lab).  
 - Em caso de problemas, fale primeiro com o orientador.  
 
 **Bem-vindo ao GFD-USP!**  
