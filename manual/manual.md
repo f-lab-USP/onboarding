@@ -9,10 +9,13 @@ O presente manual estabelece normas e expectativas para todos os membros do GFD-
 
 ---
 
-## 2. Valores e Conduta
-- O respeito mútuo, a ética e a integridade são princípios inegociáveis.  
-- É proibido qualquer tipo de discriminação, assédio, bullying ou conduta que prejudique o ambiente de trabalho.  
-- Violações éticas ou de convivência serão encaminhadas imediatamente às instâncias institucionais da USP.  
+## 2. Valores e Cultura  
+
+- **Respeito e ética:** seguimos o [Código de Ética da USP](https://prip.usp.br/areas/direitos-humanos/codigo-de-etica-da-usp/). Todas as interações devem se basear em respeito mútuo, profissionalismo e integridade.  
+- **Dedicação e profissionalismo:** a ciência é um trabalho coletivo e exige responsabilidade individual. Espera-se comprometimento com prazos, qualidade e rigor acadêmico.  
+- **Colaboração e comunicação:** a troca de ideias é central. Incentivamos a colaboração, reuniões abertas e disposição para ensinar e aprender.  
+- **Bem-estar:** valorizamos o equilíbrio entre vida pessoal e profissional. O laboratório deve ser um espaço seguro e saudável.  
+
 
 ---
 
