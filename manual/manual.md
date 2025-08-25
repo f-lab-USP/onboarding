@@ -42,7 +42,7 @@ O presente manual estabelece normas e expectativas para todos os membros do GFD-
 ### Pós-docs
 - Produzir publicações científicas de alto impacto.  
 - Apoiar a supervisão de ICs e pós-graduandos.  
-- Liderar projetos e submissões de financiamento.  
+- Liderar seu projetos e colaborar em submissões de propostas financiamento.  
 
 ---
 
