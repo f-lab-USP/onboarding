@@ -11,7 +11,7 @@
 
 ## Carga Horária
 - **Iniciação Científica**: 10h/semana, sendo 8h obrigatoriamente presenciais.  
-- **Mestrado/Doutorado**: dedicação integral à pós-graduação, cumprimento de prazos e envolvimento em projetos científicos.  
+- **Mestrado/Doutorado**: dedicação integral à pós-graduação, cumprimento de prazos e envolvimento nos projetos do laboratório.  
 - **Pós-docs**: liderança em projetos, apoio à formação de estudantes, submissão de propostas.  
 
 ## Publicações
