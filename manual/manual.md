@@ -16,7 +16,7 @@ O presente manual estabelece normas e expectativas para todos os membros do GFD-
 - **Colaboração e comunicação:** a troca de ideias é central. Incentivamos a colaboração, reuniões abertas e disposição para ensinar e aprender.  
 - **Bem-estar:** valorizamos o equilíbrio entre vida pessoal e profissional. O laboratório deve ser um espaço seguro e saudável.  
 
-
+Além do Código de Ética da USP, seguimos as orientações do [Guia de Boas Práticas da Pró-reitoria de Pesquisa e Inovação](https://prpi.usp.br/wp-content/uploads/sites/1239/2023/05/Guia_Boas_Praticas-2ed.pdf) e [Guia de Boas Práticas Científicas da FAPESP](https://www.fapesp.br/acordos/SECOVI/boas_praticas.pdf). É obrigação de cada membro do grupo ler atentamente esses documentos.
 ---
 
 ## 3. Estrutura e Reuniões
