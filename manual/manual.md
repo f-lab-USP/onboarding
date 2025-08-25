@@ -70,7 +70,44 @@ Além do Código de Ética da USP, seguimos as orientações do [Guia de Boas Pr
 
 ---
 
-## 8. Atualização
+## 8. Boas Práticas Acadêmicas  
+
+- Organização de projetos: manter relatórios, documentação de códigos e registros claros.  
+- Gestão de tempo: elaborar cronogramas realistas e atualizá-los regularmente.  
+- Redação científica: priorizar clareza, concisão e rigor. Textos devem ser revisados pelo orientador e/ou por colegas do grupo antes de submissão.  
+
+---
+
+## 9. Inclusão, Diversidade e Bem-Estar  
+
+- O GFD-USP é um espaço inclusivo, alinhado às diretrizes de inclusão e pertencimento da USP.  
+- Respeitamos e apoiamos situações relacionadas à saúde física e mental, maternidade/paternidade ou demandas pessoais relevantes.  
+- Incentivamos a diversidade de origens, experiências e perspectivas como parte da força do grupo.  
+
+---
+
+## 10. Procedimentos Práticos  
+
+- **Onboarding de novos membros:**  
+  - Criar conta nos computadores do laboratório (procurar seção de informática)
+  - Criar conta no Github, Slack e Overleaf utilizando o e-mail USP.  
+  - Acesso ao espaço físico do laboratório.  
+  - Acesso ao GitHub do grupo e ao cluster de computação.  
+  - Participação na primeira reunião de grupo com apresentação pessoal.  
+
+- **Administração:** cada membro é responsável por seus relatórios de bolsa, prazos acadêmicos e comunicação com as secretaria de graduação ou pós-graduação.  
+
+---
+
+## 11. Como Pedir Ajuda  
+
+- **Dúvidas técnicas:** procurar primeiro colegas, depois escalar para orientador ou pós-doc.  
+- **Problemas acadêmicos/pessoais:** comunicação direta com o orientador.  
+- **Conflitos internos:** tentar resolução via diálogo. Se necessário, recorrer a mediação institucional da USP.  
+
+---
+
+## 12. Atualização
 Este manual será revisado anualmente. O não cumprimento de suas normas pode resultar em advertências formais ou desligamento do grupo.  
 
 **Última atualização: agosto de 2025**  
