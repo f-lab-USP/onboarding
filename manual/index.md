@@ -56,13 +56,13 @@ O presente manual estabelece normas e expectativas para todos os membros do GFD-
 ## 6. Recursos e Financiamento
 - O uso de recursos financeiros é regulado pelas normas da agência financiadora (ex.: FAPESP).  
 - Cada membro é responsável por entregar relatórios dentro dos prazos.  
-- Uso de clusters e infraestrutura é coletivo; práticas inadequadas podem acarretar restrição de acesso.  
+- Uso dos computadores e cluster do laboratório é coletivo; práticas inadequadas podem acarretar restrição de acesso.  
 
 ---
 
 ## 7. Procedimentos
-- **Onboarding**: todo novo membro deve concluir o checklist inicial (conta USP, acesso ao GitHub, integração em reuniões).  
-- **Conflitos**: devem ser reportados imediatamente ao orientador; casos graves serão formalizados junto à USP.  
+- **Onboarding**: todo novo membro deve concluir o checklist inicial (conta nos computadores, acesso GitHub do laboratório, integração em reuniões).
+- **Conflitos**: devem ser reportados imediatamente ao orientador; casos graves serão formalizados junto à USP.
 
 ---
 
