@@ -24,7 +24,7 @@ Institute of Oceanography – University of São Paulo
   - Full commitment to graduate program deadlines.  
   - Active involvement in group projects and scientific publications.  
 - **Postdocs**:  
-  - Leadership in projects and proposals.  
+  - Leadership in your project and collaboration on proposals.  
   - Mentoring of students.  
   - Strong publication record.  
 
